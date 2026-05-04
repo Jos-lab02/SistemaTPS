@@ -1,0 +1,5 @@
+1726525155,brmp0ch0,paciente,Gerson Steven;Bombon Toca;27;M;0963231366
+9926525239,karely02,doctor,Naomy Karely;Bombon Toca;19;karelybom@gmail.com;Odontología;0963231366;Hospital Metropolitano Norte:Lunes-8-17/Martes-8-17/Miercoles-8-17/Jueves-8-17/Viernes-8-17|Unidad Médica del Valle:Sabado-8-12/Domingo-8-12
+1726525239,paciente01,paciente,Melanie;Villegas;20;F;0983221323
+9911958702,doctor02,doctor,Jefferson Alexi;Guzmán López;36;jeffalex@gmail.com;Cardiología;0963231366;Consultorio Médico Familiar:Lunes-10-20/Miercoles-10-20/Viernes-10-20|Clínica San José:Sabado-5-12
+9926525155,doctor01,doctor,Gerson Steven;Carrera Valencia;34;stevenlav@gmail.com;Odontología;0983221323;Centro Médico Central:|Consultorio Médico Familiar:Lunes-8-17/Martes-8-17/Miercoles-8-17/Viernes-8-17

@@ -1,0 +1,5 @@
+1726525155,9926525239,Odontología,Hospital Metropolitano Norte,Miercoles,11
+1726525239,9911958702,Cardiología,Consultorio Médico Familiar,Miercoles,17
+1726525239,9926525239,Odontología,Hospital Metropolitano Norte,Lunes,8
+1726525155,9926525155,Odontología,Consultorio Médico Familiar,Lunes,11
+1726525239,9926525155,Odontología,Consultorio Médico Familiar,Miercoles,13
